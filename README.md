@@ -5,7 +5,8 @@ This is an app which lets users schedule their tasks/goals for each work hour. T
 Users can save their notes by clicking on the save icon which uses local storage to save your information
 
 ## Usage
-
+Screenshot:
+![1](https://user-images.githubusercontent.com/69816889/99926186-d28a4080-2d0e-11eb-94a4-19ca21c9c671.PNG)
 
 ## Installation
 None
